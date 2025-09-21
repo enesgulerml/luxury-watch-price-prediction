@@ -1,3 +1,4 @@
+![Luxury Watch Predictor](Streamlit/cover.png)
 # ⌚ Luxury Watch Price Prediction
 
 Predict the price of **luxury watches** using machine learning.  
